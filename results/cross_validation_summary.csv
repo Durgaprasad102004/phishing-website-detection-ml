@@ -1,0 +1,5 @@
+,Accuracy,Accuracy,Precision,Precision,Recall,Recall,F1_Score,F1_Score,ROC_AUC,ROC_AUC
+,mean,std,mean,std,mean,std,mean,std,mean,std
+Model,,,,,,,,,,
+Logistic Regression,0.927182,0.00553,0.925809,0.010024,0.945103,0.003791,0.935324,0.004572,0.978758,0.002732
+SVM,0.951877,0.003111,0.945696,0.005518,0.969304,0.007135,0.957327,0.002805,0.988381,0.001496
